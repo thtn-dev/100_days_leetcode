@@ -1,4 +1,4 @@
-# 100_days_leetcode
+# 100 days leetcode with C#
 
 # day 1
 - Two Sum https://leetcode.com/problems/two-sum
