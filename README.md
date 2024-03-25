@@ -1,5 +1,5 @@
 # 100 days leetcode with C#
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/thtn-dev?theme=light&font=Ubuntu&ext=heatmap)
 - Easy 👽
 - Medium 👾
 - Hard 😈
