@@ -15,3 +15,6 @@
 # day 3
 - Find All Duplicates in an Array https://leetcode.com/problems/find-all-duplicates-in-an-array 👾
 - Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters 👾
+# day 4
+- First Missing Positive https://leetcode.com/problems/first-missing-positive 👾
+- Subarray Product Less Than K https://leetcode.com/problems/subarray-product-less-than-k 😈

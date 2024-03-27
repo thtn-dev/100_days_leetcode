@@ -109,6 +109,7 @@ namespace Day_3
                     if (nums[i] - 1 == i)
                     {
                         i += totalSwap - 1;
+                        totalSwap = 0;
                     }
                     else
                     {
