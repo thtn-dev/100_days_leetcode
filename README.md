@@ -16,5 +16,8 @@
 - Find All Duplicates in an Array https://leetcode.com/problems/find-all-duplicates-in-an-array 👾
 - Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters 👾
 # day 4
-- First Missing Positive https://leetcode.com/problems/first-missing-positive 👾
-- Subarray Product Less Than K https://leetcode.com/problems/subarray-product-less-than-k 😈
+- First Missing Positive https://leetcode.com/problems/first-missing-positive 😈
+- Subarray Product Less Than K https://leetcode.com/problems/subarray-product-less-than-k 👾
+# day 5
+- Longest Harmonious Subsequence https://leetcode.com/problems/longest-harmonious-subsequence 👽
+- Count Subarrays Where Max Element Appears at Least K Times https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times 👾
