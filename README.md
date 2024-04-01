@@ -21,3 +21,6 @@
 # day 5
 - Longest Harmonious Subsequence https://leetcode.com/problems/longest-harmonious-subsequence 👽
 - Count Subarrays Where Max Element Appears at Least K Times https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times 👾
+# day 6
+- Length of Last Word https://leetcode.com/problems/length-of-last-word/ 👽
+- Substrings of Size Three with Distinct Characters https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/ 👽
