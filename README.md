@@ -24,3 +24,6 @@
 # day 6
 - Length of Last Word https://leetcode.com/problems/length-of-last-word/ 👽
 - Substrings of Size Three with Distinct Characters https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/ 👽
+# day 7
+- Word Search https://leetcode.com/problems/word-search/ 👾
+- Maximum Nesting Depth of the Parentheses https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/ 👾
