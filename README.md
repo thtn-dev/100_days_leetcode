@@ -27,3 +27,6 @@
 # day 7
 - Word Search https://leetcode.com/problems/word-search/ 👾
 - Maximum Nesting Depth of the Parentheses https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/ 👾
+# day 8
+- Make The String Great https://leetcode.com/problems/make-the-string-great/ 👽
+- Minimum Remove to Make Valid Parentheses https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ 👾
