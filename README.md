@@ -30,3 +30,7 @@
 # day 8
 - Make The String Great https://leetcode.com/problems/make-the-string-great/ 👽
 - Minimum Remove to Make Valid Parentheses https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ 👾
+# day 9
+- Number of Students Unable to Eat Lunch https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/ 👽
+- Counting Bits https://leetcode.com/problems/counting-bits/ 👽
+- Time Needed to Buy Tickets https://leetcode.com/problems/time-needed-to-buy-tickets/ 👽
